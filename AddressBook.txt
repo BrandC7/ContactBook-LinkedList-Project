@@ -1,0 +1,5 @@
+Antonio Alanis|15/10/2001|45 Ban Blvd, Dallas, TX, 78345|Friend|9995462345|
+Juan Topo|12/03/2003|34 Street St, City, ST, 83234|Family|9993458245|
+Michael Cienfuegos|12/03/2002|1543 Main St, New York, NY, 12354|Friend|9992234562|
+Pedro Garza|02/05/1999|23 Elm St, Dallas, TX, 78350|Family|9991231234|
+John Doe|23/03/1993|8465 2nd St, El Paso, TX, 87456|Family|9990235421|
